@@ -63,7 +63,7 @@ backend/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/sanjay-here/Hospital_DBMS_upgraded.git
 
 
 ### 2. Move Project to XAMPP
