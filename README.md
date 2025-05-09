@@ -80,17 +80,14 @@ Import the provided .sql file
 
 ### 4. Run the Application
 
+> php -S localhost:8000
+
 Admin Panel: http://localhost/backend/admin
 
 Doctor Panel: http://localhost/backend/doc
 
 Patient Panel: http://localhost/backend/patient
 
-### 🔐 Sample Login Credentials
-Role	ID / Email	Password
-Admin	admin@example.com	admin123
-Doctor	doc101	docpass101
-Patient	pat202	9876543210
 
 ### ✨ Enhancements Made
 Feature	Status
